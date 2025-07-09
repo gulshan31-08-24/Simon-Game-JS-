@@ -16,7 +16,7 @@ A colorful and interactive **Simon Says Game** built using **HTML**, **CSS**, an
 ---
 ## 🔗 Live Demo
 
-👉 [Click here to play the Simon Game]()
+👉 [Click here to play the Simon Game](https://gulshan31-08-24.github.io/Simon-Game-JS-/)
 
 ---
 
