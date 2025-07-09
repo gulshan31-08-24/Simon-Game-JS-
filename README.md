@@ -14,6 +14,11 @@ A colorful and interactive **Simon Says Game** built using **HTML**, **CSS**, an
 6. Your **highest score** is tracked and shown at the top.
 
 ---
+## 🔗 Live Demo
+
+👉 [Click here to play the Simon Game]()
+
+---
 
 ## 🚀 Features
 
